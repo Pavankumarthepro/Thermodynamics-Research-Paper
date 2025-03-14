@@ -1,10 +1,17 @@
 Energy Efficiency in HVAC Systems: Thermodynamic Challenges and Innovations
+
 📄 Research Paper for MAE 6280: Thermodynamics
+
 Author: Pavan Kumar Nagaraju
+
 Department: Mechanical and Aerospace Engineering, The George Washington University
+
 Course: MAE 6280 – Thermodynamics
+
 Professor: Michael Keidar
+
 Date: December 12, 2024
+
 
 📌 Overview
 This research paper explores the thermodynamic inefficiencies of conventional HVAC (Heating, Ventilation, and Air Conditioning) systems and highlights cutting-edge innovations that enhance energy efficiency. It applies fundamental thermodynamic principles—entropy generation, exergy destruction, and energy balance—to analyze inefficiencies and evaluate solutions such as variable-speed compressors, AI-driven optimization, and renewable energy integration.
@@ -18,10 +25,12 @@ This research paper explores the thermodynamic inefficiencies of conventional HV
 ✔ Barriers to Adoption & Solutions
 
 🔬 Key Findings & Innovations
+
 ⚙️ Thermodynamic Inefficiencies
 High entropy generation due to temperature gradients and frictional losses.
 Significant exergy destruction in heat rejection processes.
 Outdated control mechanisms causing unnecessary energy wastage.
+
 💡 Energy-Efficient HVAC Innovations
 Variable-Speed Compressors: Adaptive performance reduces energy loss.
 AI & Machine Learning for HVAC Optimization: Smart energy management via Deep Reinforcement Learning (DRL).
@@ -39,11 +48,15 @@ This research is backed by credible sources, including:
 McKoy et al. (2023): Review of HVAC systems and future applications.
 Olatunde et al. (2024): Energy-efficient HVAC technologies for sustainable buildings.
 Wang et al. (2023): AI-driven HVAC optimization in multi-zone office spaces.
+
+
 📥 How to Use This Repository
 Download the Research_Paper.pdf for a detailed study.
 Check the Figures/ directory for diagrams and visual content.
 Refer to References/ for citation sources and related research.
 Use Research_Paper.docx for modifications or further exploration.
+
+
 📢 Future Scope
 🔹 CFD Analysis for airflow and thermal performance improvements.
 🔹 FEA Simulations to analyze structural and thermal stresses in HVAC components.
